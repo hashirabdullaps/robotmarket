@@ -1,0 +1,57 @@
+.delivery,
+.depth8Frame0 {
+  align-self: stretch;
+  position: relative;
+}
+.depth8Frame0 {
+  height: 99px;
+  border-radius: var(--br-xs);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.delivery {
+  line-height: 24px;
+  font-weight: 500;
+}
+.depth9Frame0 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.deliverPackagesMeals {
+  align-self: stretch;
+  position: relative;
+  line-height: 21px;
+}
+.depth9Frame1 {
+  align-self: stretch;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkolivegreen);
+}
+.depth7Frame0,
+.depth8Frame1,
+.depth9Frame1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth8Frame1 {
+  align-self: stretch;
+}
+.depth7Frame0 {
+  flex: 1;
+  padding: 0 0 var(--padding-17xl);
+  box-sizing: border-box;
+  gap: var(--gap-xs);
+  min-width: 172px;
+  max-width: 176px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray);
+  font-family: var(--font-epilogue);
+}
